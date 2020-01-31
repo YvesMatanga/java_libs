@@ -9,7 +9,7 @@ package java_libs.strings;
  *
  * @author Yves Matanga
  */
-public class MyString {
+public class Strings {
    /**
     * Put the first letter of a string in upper case
     * @param Word
