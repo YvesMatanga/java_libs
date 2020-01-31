@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.user.sql;
+package java_libs.sql;
 
 //import com.ibatis.common.jdbc.ScriptRunner;
 import java.sql.Connection;
